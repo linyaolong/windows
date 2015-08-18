@@ -1,0 +1,8 @@
+1.Sleep()		--让当前线程“停”下来
+2.WaitForSingleObject()	--自己停下来，等待某个事件发生
+3.GetTickCount()	--有人把Tick翻译成“嘀嗒”，很形象
+4.QueryPerformanceFrequency()、QueryPerformanceCounter()	--让你访问到精 度更高的CPU数据
+5.timeGetSystemTime()	--另一个得到高精度时间的方法
+6.PerformanceCounter	--效能计数器
+7.GetProcessorInfo()/SetThreadAffinityMask()			--多核、这两个方法能够更好地控制CPU
+8.GetCPUTickCount()	--拿到CPU核心运行周期数
