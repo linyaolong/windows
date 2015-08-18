@@ -1,8 +1,8 @@
-1.Sleep()		--ÈÃµ±Ç°Ïß³Ì¡°Í£¡±ÏÂÀ´
-2.WaitForSingleObject()	--×Ô¼ºÍ£ÏÂÀ´£¬µÈ´ıÄ³¸öÊÂ¼ş·¢Éú
-3.GetTickCount()	--ÓĞÈË°ÑTick·­Òë³É¡°àÖàª¡±£¬ºÜĞÎÏó
-4.QueryPerformanceFrequency()¡¢QueryPerformanceCounter()	--ÈÃÄã·ÃÎÊµ½¾« ¶È¸ü¸ßµÄCPUÊı¾İ
-5.timeGetSystemTime()	--ÁíÒ»¸öµÃµ½¸ß¾«¶ÈÊ±¼äµÄ·½·¨
-6.PerformanceCounter	--Ğ§ÄÜ¼ÆÊıÆ÷
-7.GetProcessorInfo()/SetThreadAffinityMask()			--¶àºË¡¢ÕâÁ½¸ö·½·¨ÄÜ¹»¸üºÃµØ¿ØÖÆCPU
-8.GetCPUTickCount()	--ÄÃµ½CPUºËĞÄÔËĞĞÖÜÆÚÊı
+1.Sleep()		--è®©å½“å‰çº¿ç¨‹â€œåœâ€ä¸‹æ¥
+2.WaitForSingleObject()	--è‡ªå·±åœä¸‹æ¥ï¼Œç­‰å¾…æŸä¸ªäº‹ä»¶å‘ç”Ÿ
+3.GetTickCount()	--æœ‰äººæŠŠTickç¿»è¯‘æˆâ€œå˜€å—’â€ï¼Œå¾ˆå½¢è±¡
+4.QueryPerformanceFrequency()ã€QueryPerformanceCounter()	--è®¿é—®åˆ°ç²¾åº¦æ›´é«˜çš„CPUæ•°æ®
+5.timeGetSystemTime()	--å¦ä¸€ä¸ªå¾—åˆ°é«˜ç²¾åº¦æ—¶é—´çš„æ–¹æ³•
+6.PerformanceCounter	--æ•ˆèƒ½è®¡æ•°å™¨
+7.GetProcessorInfo()/SetThreadAffinityMask()			--å¤šæ ¸ã€è¿™ä¸¤ä¸ªæ–¹æ³•èƒ½å¤Ÿæ›´å¥½åœ°æ§åˆ¶CPU
+8.GetCPUTickCount()	--æ‹¿åˆ°CPUæ ¸å¿ƒè¿è¡Œå‘¨æœŸæ•°
